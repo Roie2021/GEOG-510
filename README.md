@@ -1,2 +1,4 @@
 # GEOG-510
-course
+cours
+
+this is a test 
